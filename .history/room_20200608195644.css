@@ -34,7 +34,7 @@ p{
 }
 .hero{
    background-image: linear-gradient(to bottom, rgba(25, 19, 65, 0.6), rgba(25, 19, 65, 0.8)),
-   url(/img/explore.png);
+   url('/img/explore.png');
    width: 100%;
    height: 75vh;
    background-size: cover;
