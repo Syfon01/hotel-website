@@ -1,0 +1,20 @@
+.text-purple:{
+ color: #333333
+}
+.p-font-weight{
+  font-weight: 500;
+}
+.p-20{
+  font-size: 20px;
+}
+p{
+  
+}
+.btn-purple{
+  background-color: #191341;
+  color: #fff;
+  border-radius: 5px;
+}
+.img-carousel{
+  height: 300px;;
+}

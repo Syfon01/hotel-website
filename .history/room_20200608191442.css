@@ -1,0 +1,49 @@
+.text-purple{
+ color: #333333
+}
+.p-font-weight{
+  font-weight: 500;
+}
+.p-20{
+  font-size: 24px;
+}
+p{
+  font-size: 18px;;
+}
+.btn-purple{
+  background-color: #191341;
+  color: #fff;
+  border-radius: 5px;
+}
+.img-carousel{
+  height: 300px!important;
+}
+.carousel-indicators li{
+  border-radius: 100%;
+  width: 8px;
+  height: 8px;
+}
+
+.hero{
+   background-image: url('/img/explore.png');
+   width: 80%;
+   height: 200px;
+   background-size: cover;
+   color: white;
+  background-image:linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url(/img/explore.png);
+  /* background-size: cover */
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  ;
+  /* background-repeat: no-repeat; */
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  opacity: 0.4;
+}
+
