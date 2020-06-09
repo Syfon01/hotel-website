@@ -35,7 +35,7 @@ a {
   height: 100%;
   z-index: 1;
   background: rgba(0, 0, 0, 0.5);
-  color: #fff!important;
+  color: #fff !important;
 }
 
 .top__section {
@@ -415,6 +415,6 @@ footer h2 {
   }
 }
 
-.d-row>li{
+.d-row>li {
   list-style: none;
 }
