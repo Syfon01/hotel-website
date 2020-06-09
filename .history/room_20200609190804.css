@@ -77,8 +77,8 @@ p{
   }
   .text-purple {
     color: #333333;
-    line-height: 25px;
-  }
+    line-height: 40px;
+  
 
   .row {
     /* opacity: 0.4; */
@@ -135,6 +135,7 @@ p{
   .hovertext {
     padding: 1.5em 1em;
     background-color: #112966;
+line-height: 25px;
 
     /* font-size: 16px;
       padding: 16px 32px; */

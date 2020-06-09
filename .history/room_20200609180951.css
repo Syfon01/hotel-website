@@ -1,0 +1,63 @@
+.text-purple{
+ color: #333333
+}
+.p-font-weight{
+  font-weight: 500;
+}
+.p-20{
+  font-size: 24px;
+}
+p{
+  font-size: 18px;;
+}
+.btn-purple{
+  background-color: #191341;
+  color: #fff;
+  border-radius: 5px;
+}
+.img-carousel{
+  height: 300px!important;
+}
+.carousel-indicators li{
+  border-radius: 100%;
+  width: 8px;
+  height: 8px;
+}
+.home-header{
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
+  url('https://res.cloudinary.com/syfon/image/upload/v1591642862/header.png');
+  width: 100%;
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  ;
+}
+.hero{
+   background-image: linear-gradient(to bottom, rgba(25, 19, 65, 0.6), rgba(25, 19, 65, 0.8)),
+   url('https://res.cloudinary.com/syfon/image/upload/v1591642863/explore.png');
+   width: 100%;
+   height: 75vh;
+   background-size: cover;
+   color: white;
+  ;
+}
+
+.vert{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.cont-vert{
+  height: 400px;
+  position: relative;
+}
+
+
+
+.cont-head {
+  height: 400px;
+  position: relative;
+}

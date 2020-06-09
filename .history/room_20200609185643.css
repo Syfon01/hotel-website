@@ -1,6 +1,6 @@
 .text-purple{
  color: #333333;
-line-height: 40px;
+/* line-height: 35px; */
 
 }
 .p-font-weight{
@@ -69,15 +69,11 @@ p{
   
 }
 
-@media (max-width: 600px) {
+@media (max-width: 991px) {
   #words {
     width: 100%;
     /* margin: auto;
       text-align: justify; */
-  }
-  .text-purple {
-    color: #333333;
-    line-height: 25px;
   }
 
   .row {
@@ -135,6 +131,7 @@ p{
   .hovertext {
     padding: 1.5em 1em;
     background-color: #112966;
+line-height: 25px;
 
     /* font-size: 16px;
       padding: 16px 32px; */

@@ -1,7 +1,5 @@
 .text-purple{
- color: #333333;
-line-height: 40px;
-
+ color: #333333
 }
 .p-font-weight{
   font-weight: 500;
@@ -69,15 +67,11 @@ p{
   
 }
 
-@media (max-width: 600px) {
+@media (max-width: 991px) {
   #words {
     width: 100%;
     /* margin: auto;
       text-align: justify; */
-  }
-  .text-purple {
-    color: #333333;
-    line-height: 25px;
   }
 
   .row {
